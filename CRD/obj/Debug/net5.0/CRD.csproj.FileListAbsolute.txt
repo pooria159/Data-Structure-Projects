@@ -1,0 +1,16 @@
+D:\DS00011\Project\CRD\obj\Debug\net5.0\CRD.GeneratedMSBuildEditorConfig.editorconfig
+D:\DS00011\Project\CRD\obj\Debug\net5.0\CRD.AssemblyInfoInputs.cache
+D:\DS00011\Project\CRD\obj\Debug\net5.0\CRD.AssemblyInfo.cs
+D:\DS00011\Project\CRD\obj\Debug\net5.0\CRD.csproj.CoreCompileInputs.cache
+D:\DS00011\Project\CRD\bin\Debug\net5.0\CRD.exe
+D:\DS00011\Project\CRD\bin\Debug\net5.0\CRD.deps.json
+D:\DS00011\Project\CRD\bin\Debug\net5.0\CRD.runtimeconfig.json
+D:\DS00011\Project\CRD\bin\Debug\net5.0\CRD.runtimeconfig.dev.json
+D:\DS00011\Project\CRD\bin\Debug\net5.0\CRD.dll
+D:\DS00011\Project\CRD\bin\Debug\net5.0\CRD.pdb
+D:\DS00011\Project\CRD\obj\Debug\net5.0\CRD.dll
+D:\DS00011\Project\CRD\obj\Debug\net5.0\ref\CRD.dll
+D:\DS00011\Project\CRD\obj\Debug\net5.0\CRD.pdb
+D:\DS00011\Project\CRD\obj\Debug\net5.0\CRD.genruntimeconfig.cache
+D:\DS00011\Project\CRD\obj\Debug\net5.0\CRD.csproj.AssemblyReference.cache
+D:\DS00011\Project\CRD\obj\Debug\net5.0\refint\CRD.dll
